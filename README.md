@@ -3,6 +3,7 @@
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 Este programa fue creado con html y css yes una simulación del navegador de Google el cual tiene las siguientes opciones de busqueda :
 
 - ✨Busqueda  simple✨
